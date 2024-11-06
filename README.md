@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/theerfanmohebi" target="blank">
+  <a href="https://linkedin.com/in/mmohebi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theerfanmohebi" height="25" width="35" />
   </a>
-  <a href="https://instagram.com/theerfanmohebi" target="blank">
+  <a href="https://instagram.com/erf__bi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theerfanmohebi" height="25" width="35" />
   </a>
   <a href="https://www.youtube.com/user/TheErfanMohebi" target="blank">
