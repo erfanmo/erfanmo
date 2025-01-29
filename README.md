@@ -10,10 +10,10 @@
 ![Visitor count](https://komarev.com/ghpvc/?username=erfanmohebi&color=green)
 
 - 🔭 I’m currently working on **Backend and Cloud-Native Projects**
-- 🌱 I’m learning advanced **Microservices and DevOps Tools**
+- 🌱 I’m interested in Generative AI, Deep Learning, and Reinforcement Learning
 - 👯 I’m open to collaborations on **Full-Stack and Backend Projects**
 - 📝 I regularly write articles on [#](#)
-- 💬 Ask me about **.NET, Python, Java script and Backend Development**
+- 💬 Ask me about **.NET, Python, Java script and Backend Development, Generative AI**
 - 📫 How to reach me **mohebi.erfan@gmail.com**
 - 📄 Know more about my experience [#](#r)
 - ⚡ Fun fact **I love finding efficient solutions to complex problems!**
