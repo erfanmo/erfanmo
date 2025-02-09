@@ -14,7 +14,7 @@
 - 👯 I’m open to collaborations on **Full-Stack and Backend Projects**
 - 📝 I regularly write articles on [#](#)
 - 💬 Ask me about **.NET, Python, Java script and Backend Development, Generative AI**
-- 📫 How to reach me **mohebi.erfan@gmail.com**
+- 📫 How to reach me **erfan.mohebi@gmail.com**
 - 📄 Know more about my experience [#](#r)
 - ⚡ Fun fact **I love finding efficient solutions to complex problems!**
 
